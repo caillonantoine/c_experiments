@@ -1,6 +1,5 @@
 #include <iostream>
-
-extern "C" void fonction_test(int* x, int* y, int* out);
+#include "func.hpp"
 
 using namespace std;
 
