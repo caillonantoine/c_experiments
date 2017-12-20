@@ -1,0 +1,1 @@
+g++ -I include/ -o test main.cpp libjackcpp.a -ljack -lpthread -lrt
