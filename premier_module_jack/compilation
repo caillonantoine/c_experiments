@@ -1,0 +1,2 @@
+gfortran -DG95 -O2 -fdefault-real-8 -fdefault-double-8  trfft1.f -o trfft1.exe -L../lib -l fftpack
+
